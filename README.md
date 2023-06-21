@@ -1,9 +1,6 @@
-# RobotProgramming-Controll
-Sure! Here's a sample README file for a robot programming control MODULE B:
+# RobotProgramming-Control  MODULE B:
 
-# Robot Programming Control Class
-
-This repository contains the materials and code examples for the Robot Programming Control class. The class is designed to provide an introduction to robot programming and control techniques, covering both theoretical concepts and practical implementations.
+This repository contains the materials and code examples for the Robot Programming Control class module B. The class is designed to provide an introduction to robot programming and control techniques, covering both theoretical concepts and practical implementations.
 
 ## Table of Contents
 
